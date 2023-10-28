@@ -1,4 +1,4 @@
-# Explaining Linear Regression Model ||Boston Housing Price Prediction
+# Explaining Linear Regression Model|| Boston Housing Price Prediction
 
 ## Overview:
 
