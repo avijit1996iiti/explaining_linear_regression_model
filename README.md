@@ -1,4 +1,4 @@
-# Boston Housing Price Prediction
+# Explaining Linear Regression Model ||Boston Housing Price Prediction
 
 ## Overview:
 
@@ -20,7 +20,7 @@ Project Structure:
     Clone the repository:
 
     bash
-#todo: revisit later
+    todo: revisit later
 git clone insert link
 cd add name of the project folder 
 
